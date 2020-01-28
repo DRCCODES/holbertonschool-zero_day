@@ -1,4 +1,3 @@
-### This will show up in Markdown but not Preview
 
 This is the markdown part of 0x00. Vagrant.
 
